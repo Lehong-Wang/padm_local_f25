@@ -1,0 +1,60 @@
+{
+    "tests": [
+        {
+            "name": "test_1_convergence (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        },
+        {
+            "name": "test_2_value_iteration (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 25,
+            "max_score": 25,
+            "status": "passed",
+            "output": "Value Iteration converged in 12 iterations.\nValue Iteration converged in 31 iterations.\nValue Iteration converged in 64 iterations.\nValue Iteration converged in 2 iterations.\nValue Iteration converged in 39 iterations.\n"
+        },
+        {
+            "name": "test_3_extract_policy (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed",
+            "output": "Value Iteration converged in 12 iterations.\nValue Iteration converged in 31 iterations.\nValue Iteration converged in 56 iterations.\nValue Iteration converged in 5 iterations.\n"
+        },
+        {
+            "name": "test_4_observations (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed"
+        },
+        {
+            "name": "test_5_policy_evaluation (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed",
+            "output": "Policy Evaluation converged in 34 iterations.\n"
+        },
+        {
+            "name": "test_6_policy_improvement (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 15,
+            "max_score": 15,
+            "status": "passed",
+            "output": "Policy Evaluation converged in 34 iterations.\n"
+        },
+        {
+            "name": "test_7_policy_iteration (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 10,
+            "max_score": 10,
+            "status": "passed",
+            "output": "Policy Evaluation converged in 20 iterations.\nPolicy Evaluation converged in 11 iterations.\nPolicy Evaluation converged in 31 iterations.\nPolicy Evaluation converged in 31 iterations.\nPolicy Iteration converged in 4 iterations.\n"
+        },
+        {
+            "name": "test_8_form_word (principles_of_autonomy.notebook_tests.pset_6.TestPSet6)",
+            "score": 5,
+            "max_score": 5,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "execution_time": "0.04",
+    "score": 100
+}
